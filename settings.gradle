@@ -1,0 +1,4 @@
+rootProject.name = 'Deguard'
+include 'app'
+include 'library'
+
